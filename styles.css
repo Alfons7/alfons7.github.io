@@ -88,6 +88,7 @@ td:nth-child(2) {
 
   #me > img {
     width: 120px;
+	border-radius: 50%;
   }
 
   #name {
@@ -129,5 +130,3 @@ td:nth-child(2) {
     width: 80%;
   }
 }
-
-/*# sourceMappingURL=styles.css.map */
